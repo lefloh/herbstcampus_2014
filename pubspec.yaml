@@ -1,0 +1,9 @@
+name: herbstcampus_2014
+description: dart examples for herbstcampus 2014
+version: 0.0.1
+dependencies: 
+  browser: any
+  bootjack: any
+  polymer: ">=0.12.0 <0.13.0"
+dev_dependencies:
+  unittest: any
